@@ -84,7 +84,7 @@ Menu-Item:
   Name: '&aCosmetic &8| &6FundayNetwork'
   # The material of the selector.
   # Material: https://github.com/OnlyNoobDied/GadgetsMenu/wiki/Material-Syntax
-  Material: ANVIL
+  Material: ENDER_HEAD
   # Slot: 0-8
   Slot: 8
   # Should give player menu selector when they join the server.
