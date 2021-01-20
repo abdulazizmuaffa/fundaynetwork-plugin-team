@@ -1,0 +1,35 @@
+lastAccountName: LoveNathan
+timestamps:
+  login: 1611156744080
+  logout: 1611156744221
+  lastteleport: 1611156496560
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 26.437091768767377
+  y: 126.5
+  z: -279.69999998807907
+  yaw: 183.44052
+  pitch: 28.79521
+logoutlocation:
+  world: world
+  x: 26.457642640738822
+  y: 124.5
+  z: -271.02281853588715
+  yaw: 180.08667
+  pitch: -4.743754
+afk: false
+homes:
+  home:
+    world: world
+    x: 36.5
+    y: 125.0
+    z: -40.5
+    yaw: 96.53116
+    pitch: 7.777427
+powertools:
+  arrow:
+  - smite AntsJR_
+  string:
+  - smite Haaayuuuk
+nickname: §dLoveNathan

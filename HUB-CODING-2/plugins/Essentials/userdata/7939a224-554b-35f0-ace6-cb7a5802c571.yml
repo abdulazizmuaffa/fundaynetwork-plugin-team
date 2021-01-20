@@ -1,0 +1,24 @@
+lastAccountName: Haaayuuuk
+timestamps:
+  login: 1611155155983
+  logout: 1611156503644
+  lastteleport: 1611155789041
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: world
+  x: 51.00483132279257
+  y: 125.57795654156868
+  z: 134.80167173007757
+  yaw: -189.25342
+  pitch: -8.635985
+logoutlocation:
+  world: world
+  x: 8.457500014273187
+  y: 125.0
+  z: -48.377280119954946
+  yaw: 72.03021
+  pitch: 46.83913
+nickname: §cHaaayuuuk
+powertools:
+  stick:
+  - fireball

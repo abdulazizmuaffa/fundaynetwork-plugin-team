@@ -1,0 +1,61 @@
+locations:
+  '1':
+    world: world
+    x: 11
+    y: 127
+    z: -45
+    particle: Spiral
+  '2':
+    world: world
+    x: 8
+    y: 127
+    z: -45
+    particle: Spiral
+  '3':
+    world: world
+    x: 7
+    y: 127
+    z: -48
+    particle: Spiral
+  '4':
+    world: world
+    x: 6
+    y: 127
+    z: -51
+    particle: Spiral
+  '5':
+    world: world
+    x: 6
+    y: 127
+    z: -53
+    particle: Spiral
+  '6':
+    world: world
+    x: 8
+    y: 127
+    z: -55
+    particle: Spiral
+  '7':
+    world: world
+    x: 11
+    y: 127
+    z: -56
+    particle: Spiral
+  a:
+    world: world
+    x: 16
+    y: 127
+    z: -55
+    particle: Spiral
+  i:
+    world: world
+    x: 24
+    y: 127
+    z: -277
+    particle: Magic
+  n:
+    world: world
+    x: 26
+    y: 127
+    z: -281
+    particle: Chains

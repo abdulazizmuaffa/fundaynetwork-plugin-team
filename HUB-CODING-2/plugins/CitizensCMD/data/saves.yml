@@ -1,0 +1,67 @@
+npc-data:
+  npc-10:
+    cooldown: 0
+    right-click-commands:
+    - '[server] bedwars'
+    left-click-commands: []
+    price: 0
+  npc-9:
+    cooldown: 0
+    right-click-commands:
+    - '[server] skywars'
+    left-click-commands: []
+    price: 0
+  npc-8:
+    cooldown: 0
+    right-click-commands:
+    - '[server] skyblock'
+    left-click-commands: []
+    price: 0
+  npc-7:
+    cooldown: 0
+    right-click-commands:
+    - '[server] survival'
+    left-click-commands: []
+    price: 0
+  npc-15:
+    cooldown: 0
+    right-click-commands:
+    - '[warp] warp'
+    left-click-commands: []
+    price: 0
+  npc-11:
+    cooldown: 0
+    right-click-commands:
+    - '[server] practice'
+    left-click-commands: []
+    price: 0
+  npc-18:
+    cooldown: 0
+    right-click-commands:
+    - '[gmenu] gmenu main'
+    left-click-commands: []
+    price: 0
+  npc-47:
+    cooldown: 0
+    right-click-commands:
+    - '[warp] warp'
+    left-click-commands: []
+    price: 0
+  npc-56:
+    cooldown: 0
+    right-click-commands:
+    - '[message] <&6Pak Tommy&r> : Hai Bagaimana Kabarmu? Apakah Kamu Baik-Baik Saja?'
+    left-click-commands: []
+    price: 0
+  npc-64:
+    cooldown: 0
+    right-click-commands:
+    - '[warp] warp'
+    left-click-commands: []
+    price: 0
+  npc-67:
+    cooldown: 0
+    right-click-commands:
+    - '[server] acidisland'
+    left-click-commands: []
+    price: 0

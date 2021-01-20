@@ -1,0 +1,1106 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+last-created-npc-id: 67
+npc:
+  '14':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNzYxNiwKICAicHJvZmlsZUlkIiA6ICIyODFlZmMyMGIyMTk0OWU0OTk4NTMzM2ZjZWIyZDI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3ZlTmF0aGFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3MmZhY2RhYjVkNGQ2ZGJkNTFkZDFjNjA4NGNmNWM0N2ZlOTFhNzE3MTg4M2I2ZDA0NDA3YzQ5MDk5ZTlhOWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: lovenathan
+      cached-skin-uuid: 281efc20-b219-49e4-9985-333fceb2d271
+      player-skin-name: lovenathan
+      player-skin-signature: tYcXOKLrQ0lqaQJYU6EkmyKbcyDy5yxuXlgZb8pCDC+HAUsoaUaUZV2zaR+4qgr3B2mi88EKuY3N+GWHcekNTgBmHuOdRc2EHYazQf10xnhrfOhQrnQJpbXsrxnMT7qKpODLpsGCaxDY3zTV+yXHHDWNvO6RIzyAEdYy9VQkt0onKp6lZWNvNNHGeY+mQjUZCJlD9nm4BCPvmQ3hg4Pxah4iXvt3HD7WJow3w+hWdKxmBeVzFDEfyxkssGERlIyqBlNgb9NvuAp2IzDqv6hLdlubDomX+jLw4sHSfX+bioljZItntM/WDixboMSZsZAwS8dsGLz76PRQ0Y8yZbZQiBpBeBGPeQBl4pQ6OxNYNWW7FjD3JZHYMRi2kzOLdgwJIEJ3svzTZBcoLHEHPwRkZsiHoCcS0qRyd/fOgRUJXNKVh25Y0PNtsLJ67EqiJrVlX0sYemuM7QvprqnLfnSynbRRIENlsQVHls803/aNa6iDWJSg19aVjd1WnJeT/RR4KrG2rsljSgfdR7UxTDcc3Y0+U5DOV4x9rP8onLLTcDWF+Y4k15qk8OTnFNExx3A5bIuv9Z6tpiEGdrgSWo+34gIAVf08/TEBQ/f6Cq7mJ8XxdeArxVH70haWfgs3oLZEoSUKmE2PJqusjcTbBSwR/Z/bz7D0iQ2g5UTnouxwTrM=
+    name: §d§lLoveNathan
+    uuid: 80539fcf-91f4-4759-9312-5207cb5b1f42
+    traits:
+      spawned: true
+      gravity:
+        enabled: false
+      type: PLAYER
+      location:
+        world: world
+        x: '31.5'
+        y: '124.9375'
+        z: '-43.5'
+        yaw: '23.91638946533203'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '12':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNzYxNiwKICAicHJvZmlsZUlkIiA6ICIyODFlZmMyMGIyMTk0OWU0OTk4NTMzM2ZjZWIyZDI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3ZlTmF0aGFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3MmZhY2RhYjVkNGQ2ZGJkNTFkZDFjNjA4NGNmNWM0N2ZlOTFhNzE3MTg4M2I2ZDA0NDA3YzQ5MDk5ZTlhOWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: lovenathan
+      cached-skin-uuid: 281efc20-b219-49e4-9985-333fceb2d271
+      player-skin-name: lovenathan
+      player-skin-signature: tYcXOKLrQ0lqaQJYU6EkmyKbcyDy5yxuXlgZb8pCDC+HAUsoaUaUZV2zaR+4qgr3B2mi88EKuY3N+GWHcekNTgBmHuOdRc2EHYazQf10xnhrfOhQrnQJpbXsrxnMT7qKpODLpsGCaxDY3zTV+yXHHDWNvO6RIzyAEdYy9VQkt0onKp6lZWNvNNHGeY+mQjUZCJlD9nm4BCPvmQ3hg4Pxah4iXvt3HD7WJow3w+hWdKxmBeVzFDEfyxkssGERlIyqBlNgb9NvuAp2IzDqv6hLdlubDomX+jLw4sHSfX+bioljZItntM/WDixboMSZsZAwS8dsGLz76PRQ0Y8yZbZQiBpBeBGPeQBl4pQ6OxNYNWW7FjD3JZHYMRi2kzOLdgwJIEJ3svzTZBcoLHEHPwRkZsiHoCcS0qRyd/fOgRUJXNKVh25Y0PNtsLJ67EqiJrVlX0sYemuM7QvprqnLfnSynbRRIENlsQVHls803/aNa6iDWJSg19aVjd1WnJeT/RR4KrG2rsljSgfdR7UxTDcc3Y0+U5DOV4x9rP8onLLTcDWF+Y4k15qk8OTnFNExx3A5bIuv9Z6tpiEGdrgSWo+34gIAVf08/TEBQ/f6Cq7mJ8XxdeArxVH70haWfgs3oLZEoSUKmE2PJqusjcTbBSwR/Z/bz7D0iQ2g5UTnouxwTrM=
+    name: §8.
+    uuid: 21eb4dce-7894-4672-af6d-434929aa94e0
+    traits:
+      spawned: true
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      type: PLAYER
+      location:
+        world: world
+        x: '11.5'
+        y: '126.0'
+        z: '-55.5'
+        yaw: '-31.354541778564453'
+        pitch: '0.0'
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNjgzMiwKICAicHJvZmlsZUlkIiA6ICJjODBiYmE0MDRlMTY0ODZmYjdkNmI0M2FjZDU1NzIyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWRhc3UiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM4YWFiZTQ1ZjYzYTMyMDc4ZjRjNjA5NzdhZDNjZmZkMTk1ODE2NWFmMWU3ODNhNzI2NDZlM2NlMTIyNTM0YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+      cached-skin-uuid-name: tadasu
+      cached-skin-uuid: c80bba40-4e16-486f-b7d6-b43acd55722a
+      player-skin-name: tadasu
+      player-skin-signature: vQrx+HlRxksyBBNb3xVBbV9EW2TjTwOE1Y9tYwqMsTPFk5uZt7Vpk2zxrvcFICRDCDepGJ04wHHLflX3IqIIHqJwlYp18Wlc4s5RYGailddXxwMRIL8VYmwu74xlXE4q5cJsrQRet46cPrweMEa0NY1TQ3l4WU8qbOqzoHbsNSgtJ+iMLmdAhhdy1WoazGz4BCfSzYbmpGpiBy8ppcc/SPUmNDka5v0pzEizMv+GtIkgUXy7CHmVIo2PppW7t3cUI4dlOBYmF5ZMa6WlFfFyQ2fE4TQ+VHMTE6HQGkhgXUlFg7v3rirOoGSaiF4jwlEw+pm1JF3lHDuKXrz+7EfHz9PvZcW4ui6NRYYlyJqMZpmsJYwOYRPO8snFNRXrRjQATrx3tEBKdsPtJXl/7m7X4eq76hJSbWP/v8O57dzWUwu2Bg6M7qCdDornfmQ2QlBItsdYXz4bJX0IfK5Qn0N/RW+ClGSxIShRZxi3UsC/AmADJG5o0b6rSNikUUxRFnIIcMPe+eKMIwQhhR29TXMoRihrQNQ8vrqyHZGSz/D9Eea5UaWQiq71INtDidNUUsGJkb6IVaUg3bzkJQo2vk1YaSUeGnlfTj2GlXuOnGpo/DqSr90HoLLtNjTpszdl8apAEO9UBfAKd0QRPwgh/PSZxDFE7a4BSRAo/dhx0tu3pag=
+    name: §8.
+    uuid: 95daf0c3-3b33-4699-984a-d5146cf71f97
+    traits:
+      spawned: true
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      type: PLAYER
+      location:
+        world: world
+        x: '8.5'
+        y: '126.0'
+        z: '-54.5'
+        yaw: '0.2283172607421875'
+        pitch: '0.0'
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNjUxNiwKICAicHJvZmlsZUlkIiA6ICJmN2M3N2Q5OTlmMTU0YTY2YTg3ZGM0YTUxZWYzMGQxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJoeXBpeGVsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0N2MwNTg4NDVmM2I2ZDAzNDhhYWU1NmI2YWExYTYxYzQ2OWQ4NGNiYWJhMDQ4MTY0MDUwYTFkMzM1ZDZlYTAiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3OTEyNzkwZmYxNjRiOTMxOTZmMDhiYTcxZDBlNjIxMjkzMDQ3NzZkMGYzNDczMzRmOGE2ZWFlNTA5ZjhhNTYiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: hypixel
+      cached-skin-uuid: f7c77d99-9f15-4a66-a87d-c4a51ef30d19
+      player-skin-name: hypixel
+      player-skin-signature: iPMPx8TOI+t9rzDAOMUKsZT1HTfeIMStr1XK/98Qi852sy+WWl+zg2vEZnHycsmIXiEk3AjvO2+AsUGNnOEd49botDwML4bOHOy/ctirbsvqD5zTQt6GEP4wev8MisYOPODfkVA+dOi05P3OvCt3OxfO7LqJVVe4arZXhlmqjP7OVeHT1ofnvfqkkeb6tMOv52Ind9AoMuZaMLhWkFls9HGSyjrppEzU/zsiLGZOeJ9nt0+hvXVGkxJdx5l0gsTrrpZwXTavvSi3S8JLiPcGVBHDYdas9WJ9TMiBSVcq5AoNr4y1OP30Y7EMKdLjgnbwPLqq4YM1JM2luRuP0AWqd/N3XmZRYISsT0CJCKyamKdjef3l/sww1BDGGoQ/kFPGq2ienbcKuF7Fodgcp2xYGM/fekRJuJv8QBUtNIwODszG05zPSdR73K1K0x1Au3tTaSFGPCsi39laxdu6BbXLPchHt0NYq/XtN1QqBcW/NdTQRKPPn7Z8/J9ZNR74kFQFeNrFzCbcpM9FgJ+7Fd9+63Cwdum9aQHFjAVydtJGRFK7Cr/+IzhgKQkf7Yolwsy0bQl74QDmpZQ29irWBa7hNyWMUI8swg738WMC9YahPkxcDQOtpYYngrqM6BV0iJ9f5Ceg+rjMWmsr/6vmtj9c9CsDk4pErC6hzMJjnoNyA/o=
+    name: §8.
+    uuid: 9153e5a8-a49b-4a53-b57d-ad5143fe28ee
+    traits:
+      spawned: true
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      type: PLAYER
+      location:
+        world: world
+        x: '11.5'
+        y: '126.0'
+        z: '-44.5'
+        yaw: '142.1793212890625'
+        pitch: '0.0'
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxOTY0OCwKICAicHJvZmlsZUlkIiA6ICJkNjYyYTJkYzMwNWM0YmJjOWYyZjExYjg1ZmY1NTU5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3l3YXJzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2ZTQzYzRhNjUyNGU5YWU4MjdjMGI2MGQzOTI3ZDU2YTVjYzMxNjE3M2RlM2IwOGEwYmI0ODYyMTVmNGMwODYiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3ZGZlYTE2ZGM4M2M5N2RmMDFhMTJmYWJiZDEyMTYzNTljMGNkMGVhNDJmOTk5OWI2ZTk3YzU4NDk2M2U5ODAiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: skywars
+      cached-skin-uuid: d662a2dc-305c-4bbc-9f2f-11b85ff55599
+      player-skin-name: skywars
+      player-skin-signature: VALed+1gVpeLFaP7f5n2zI9BCfKS0qiWCFPaHsV66Y399SE9psXfkpknhm2BA9vdrDkzA9Ntlj3IEM3Hr1NjE8TDGo6UB2EQW77XxeCqlBvb8T1GyiVOh226iEwNBiV8Ux5SX/C3XT1eaZO1Jfv17/4cnpHxeoxPYm/zqzsrQ1hm1Rq9/F+MhSBIXe8BtzXJl5LUT6Du3GWUHkiK1reCQBShNJY+VmLY/kPRUGLHaQ4ulpzZjTWZ+5w4/02scMc14JVcpg+2B7dShkSVwfile+kyWgVBlvuh3oQOClj5RlX1S2r0Cewd+e9h214zaBrFYkK9JgfOnJHjfgw4hiwv2i9s1/WZUAXGKUMQ4BmpXIqmVxoItsEoFkB48YwvNfHBelA2LyWQmWtj3TS6iQE6yEG4MRGpp0/Jv0kTi1QkGz4S6klbvO1pd6Wy1dfpJi3K/E/fzRdLtyh1mgKpcYc0KCBQYdJWjcxcxTefr41DdaOplsvfPU05jVWSkG+VTdz02wbb8U3Bw0HW2jIHrpYCiNpOmbR/vRDDQdlB4jhCzfSKFbloCJRrs0lLLZtMmcCqDQ7FIyTRjV3lj7s9Dycijw9VTUwxagXCAldEyM3j015bvjRDpKfTN/LJp5WL2YVb5jvOdGPq9HVwItToq0VnXxHIcETNXz4NM+rffMni8c0=
+    name: §8.
+    uuid: c837b458-7435-4569-b92e-4c521ad59914
+    traits:
+      spawned: true
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      type: PLAYER
+      location:
+        world: world
+        x: '8.5'
+        y: '126.0'
+        z: '-44.5'
+        yaw: '179.7100067138672'
+        pitch: '0.0'
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNTI2NiwKICAicHJvZmlsZUlkIiA6ICJkMzZkODM1ZmU3MDc0ZDQzODI4NjE0ZWQ3YzMyNWFjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3lCbG9jayIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMmI2MTJkOTAzMmIzZWVmMjNhM2NiZGViYjIyNjE5ZDg1ZGNmNWZlNjNjMDBkMDc0YzQxZjdlNWUzOTk5Y2Q1IgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: skyblock
+      cached-skin-uuid: d36d835f-e707-4d43-8286-14ed7c325ac2
+      player-skin-name: skyblock
+      player-skin-signature: MtVK1st3rxf3IdAUJg+41/bTW/bONuqojwcNm293fHxSi+06H63antAqayN8TOP8djHl+fR8ahKbgwHpb1czTiR0RgBVC6tdKyCI8hO5tkfpJHDZhkBIJnYod+/NkrTCGXiSjhKjAb3rLb5JMqwZR0CIL3NyLFikiYf22lcTX1mK/ONYx6ai7ph1CoqvgT1Y4647XgQaR6U0YcafBvaJ9b3+UK9EIlchqiqglogsrBD3yDIceZit/TCuDd2QvRnRsSpfU11I2bAuwB1DB7SatFAqxeZLcST91DzKV5zrI3ThPB2if4ZsEHQOvsjpVQGm78OwhZfYaD1066glIAqluYur7oNGEmjyiQTJk4/iUk8rcWuCzb9jKnyd/ebaVS4NwOzIBrlYAf58PhQYmcJnQVEFo1aQLQGoLx4btM2qq4F1UEkkvp/32xLmEvJu0asYA0veBfLvypyQh+XGxO79BxKkERqz4vLh+1/NTfgAIQv7KUujG9kJHWDNXJ7H7FkTwnIRIU1X7PBB5KmpmSEkFYXyUyK8NT9Xsy1tCvaKHATZJLWe16iVPVufG9DHlNb9HFST2zW/KLV0TDTwGre5qiUSjwLQwk3a5tMzevjL0vrjqYqTkgmmvWAz8bjeQ1D/Y+D3PRCElITqRuTFpuZ42M0NMLK/W/1hS0Jt6LVEjg8=
+    name: §8.
+    uuid: 14c25212-4586-4e42-899e-2498f92e6ff7
+    traits:
+      spawned: true
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      type: PLAYER
+      location:
+        world: world
+        x: '7.5'
+        y: '126.0'
+        z: '-47.5'
+        yaw: '-123.45133972167969'
+        pitch: '0.0'
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxMzUxMSwKICAicHJvZmlsZUlkIiA6ICJhODY1MjI5ZTUwM2E0YzJkOTE4ZjM1ODU3ZDA3MWQ1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdXJ2aXZhbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYjQwNmJjMWNiYzVmODVjMzQzMjliZjBhMjM2MjUyMzVjNTI5ZWNiMGRmYzVlYWE5NTM5ZDQ0M2UwMGNjMDciCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: survival
+      cached-skin-uuid: a865229e-503a-4c2d-918f-35857d071d52
+      player-skin-name: survival
+      player-skin-signature: x0Roe5U7m9pbuktYKB7jB8d3TB6f6mQNy5Dq5AM35IzUnM8G0GwZjZ/l3DDRbEXKuI0w2Zc1yfXXz9+oWiEuw1qVpwinSyeWc/QF5j4IgtZdC/1FWDN1xfAOYXHkiRcMn+sk17Pmhntfuft+i3gJRp2YfDiap0h/VrpDhdupmST7FpZ7X9rAP054ER+hny1UHTBJg9GJJQTyccH651bbpsVcD6CWXkDa9REwCG1t0FCbiJ62wIN9B3RP/UsV51pnaNFmh3pGIjkD1GwwbqYeXQ1O8ucLF/KhyXzQ5rJf2QUZ9kQDgW5bD2bV29K+MMLg00J0NiX45nWoSTGB85042sJeeHOQ36LNWNqNaEUZSbGKRMr8D+UGf+Xqze/0Bw1UVSvAJ3l0C3pYiKc2hnGIgzX+TcUekMJT409espBjBdQnl49HAzm1SVEXggN7IraZFNnRA2Nzye8wZCAHGWSBfQj+eC1nfap/dLoK0wOXl379RdFKdBoNAzUXkdwq8T2bNBTTkMSX1E3wqMT2V8CsNvBy00jpWBjEjHi7yUEHDAt7GnfD28G6EvNWl/uDRn3IUaDCQzj44UU9/ZaMnisPAROSU+5lNjRIzionA6fA6/HealUVv77Q5TMMLq+uDiFVjBllDLO4BqA8JtIB0R1t0dsPlh675l6kmQ9BoCVBJv0=
+    name: §8.
+    uuid: bbe20242-3f3d-450f-9d81-0b026b11f80b
+    traits:
+      spawned: true
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      type: PLAYER
+      location:
+        world: world
+        x: '6.5'
+        y: '126.0'
+        z: '-50.5'
+        yaw: '-43.18476486206055'
+        pitch: '0.0'
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '15':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNzYxNiwKICAicHJvZmlsZUlkIiA6ICIyODFlZmMyMGIyMTk0OWU0OTk4NTMzM2ZjZWIyZDI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3ZlTmF0aGFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3MmZhY2RhYjVkNGQ2ZGJkNTFkZDFjNjA4NGNmNWM0N2ZlOTFhNzE3MTg4M2I2ZDA0NDA3YzQ5MDk5ZTlhOWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: lovenathan
+      cached-skin-uuid: 281efc20-b219-49e4-9985-333fceb2d271
+      player-skin-name: lovenathan
+      player-skin-signature: tYcXOKLrQ0lqaQJYU6EkmyKbcyDy5yxuXlgZb8pCDC+HAUsoaUaUZV2zaR+4qgr3B2mi88EKuY3N+GWHcekNTgBmHuOdRc2EHYazQf10xnhrfOhQrnQJpbXsrxnMT7qKpODLpsGCaxDY3zTV+yXHHDWNvO6RIzyAEdYy9VQkt0onKp6lZWNvNNHGeY+mQjUZCJlD9nm4BCPvmQ3hg4Pxah4iXvt3HD7WJow3w+hWdKxmBeVzFDEfyxkssGERlIyqBlNgb9NvuAp2IzDqv6hLdlubDomX+jLw4sHSfX+bioljZItntM/WDixboMSZsZAwS8dsGLz76PRQ0Y8yZbZQiBpBeBGPeQBl4pQ6OxNYNWW7FjD3JZHYMRi2kzOLdgwJIEJ3svzTZBcoLHEHPwRkZsiHoCcS0qRyd/fOgRUJXNKVh25Y0PNtsLJ67EqiJrVlX0sYemuM7QvprqnLfnSynbRRIENlsQVHls803/aNa6iDWJSg19aVjd1WnJeT/RR4KrG2rsljSgfdR7UxTDcc3Y0+U5DOV4x9rP8onLLTcDWF+Y4k15qk8OTnFNExx3A5bIuv9Z6tpiEGdrgSWo+34gIAVf08/TEBQ/f6Cq7mJ8XxdeArxVH70haWfgs3oLZEoSUKmE2PJqusjcTbBSwR/Z/bz7D0iQ2g5UTnouxwTrM=
+    name: §8.
+    uuid: 0322cccb-e36a-4c95-8745-9494a739a2b7
+    traits:
+      location:
+        world: world
+        x: '16.5'
+        y: '126.0'
+        z: '-54.5'
+        yaw: '29.341087341308594'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      spawned: true
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '16':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNzYxNiwKICAicHJvZmlsZUlkIiA6ICIyODFlZmMyMGIyMTk0OWU0OTk4NTMzM2ZjZWIyZDI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3ZlTmF0aGFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3MmZhY2RhYjVkNGQ2ZGJkNTFkZDFjNjA4NGNmNWM0N2ZlOTFhNzE3MTg4M2I2ZDA0NDA3YzQ5MDk5ZTlhOWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: lovenathan
+      cached-skin-uuid: 281efc20-b219-49e4-9985-333fceb2d271
+      player-skin-signature: tYcXOKLrQ0lqaQJYU6EkmyKbcyDy5yxuXlgZb8pCDC+HAUsoaUaUZV2zaR+4qgr3B2mi88EKuY3N+GWHcekNTgBmHuOdRc2EHYazQf10xnhrfOhQrnQJpbXsrxnMT7qKpODLpsGCaxDY3zTV+yXHHDWNvO6RIzyAEdYy9VQkt0onKp6lZWNvNNHGeY+mQjUZCJlD9nm4BCPvmQ3hg4Pxah4iXvt3HD7WJow3w+hWdKxmBeVzFDEfyxkssGERlIyqBlNgb9NvuAp2IzDqv6hLdlubDomX+jLw4sHSfX+bioljZItntM/WDixboMSZsZAwS8dsGLz76PRQ0Y8yZbZQiBpBeBGPeQBl4pQ6OxNYNWW7FjD3JZHYMRi2kzOLdgwJIEJ3svzTZBcoLHEHPwRkZsiHoCcS0qRyd/fOgRUJXNKVh25Y0PNtsLJ67EqiJrVlX0sYemuM7QvprqnLfnSynbRRIENlsQVHls803/aNa6iDWJSg19aVjd1WnJeT/RR4KrG2rsljSgfdR7UxTDcc3Y0+U5DOV4x9rP8onLLTcDWF+Y4k15qk8OTnFNExx3A5bIuv9Z6tpiEGdrgSWo+34gIAVf08/TEBQ/f6Cq7mJ8XxdeArxVH70haWfgs3oLZEoSUKmE2PJqusjcTbBSwR/Z/bz7D0iQ2g5UTnouxwTrM=
+    name: LoveNathan
+    uuid: b247bfe7-7d6d-4808-b5ee-2dac447de11f
+    traits:
+      location:
+        world: world
+        x: '-178.5'
+        y: '136.0'
+        z: '17.5'
+        yaw: '-178.98484802246094'
+        pitch: '0.0'
+      spawned: true
+      gravity:
+        enabled: false
+      type: PLAYER
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: Tadasu
+        uuid: 27f2d9e7-b5b0-3bf1-baa6-6179db025a28
+    traitnames: equipment,mounttrait,skinlayers,inventory,spawned,speech,owner,type,location,scripttrait,waypoints,text
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '56':
+    name: §6Pak Tommy
+    uuid: 350f799a-e92f-462c-99a0-5bb40c484672
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: world
+        x: '-160.5'
+        y: '142.0'
+        z: '-19.5'
+        yaw: '89.43883514404297'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: devxz
+        uuid: c5d1fe58-9050-377e-bf8e-1a09347a259d
+    traitnames: equipment,mounttrait,skinlayers,spawned,inventory,speech,owner,type,location,scripttrait,waypoints,text
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxODQxNSwKICAicHJvZmlsZUlkIiA6ICJiNjkxZGIzNWQxMTA0OTdhYTg0YjdkZjYxMmJhM2Q3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdWMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWM2ZWVjNWU0MzllMzFkZmRjMmE5ZWRlMDU3MDRhMDQ5NmRkNjA5M2ZmYjljNDgxOGI3ODNhOWE1N2MwZWU4YiIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUzY2FjOGI3NzlmZTQxMzgzZTY3NWVlMmI4NjA3MWE3MTY1OGYyMTgwZjU2ZmJjZThhYTMxNWVhNzBlMmVkNiIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: luc
+      cached-skin-uuid: b691db35-d110-497a-a84b-7df612ba3d76
+      player-skin-name: luc
+      player-skin-signature: GlurM0QFsn5LFYOmfpvIdEhaFuFLSbcamTlcY+PrDQeZEgjHI7qlYkmZXD/5kYNPbApbpULHmAqElPQ5ArhJp0QgDvR30UpE8s18W+uMnjvQke5mt9dYP+q8Dq5PskhVX+/o0YaE35AzBdWTNo/L+jRcUMF9BRp8bPDCVo6Uzai5GRD/Gl/V7/GI0JvZ9VsVNP4bNR38Fd6dmt/pra04A4FeIvxKgQtOinaresI72Fjg4UB/e1Od2HJ882UbeX6+qrjIHUqlXB8AmOV3Jm0U/sBKMij/X1ne8CXnsN8glqiJpaC3CeCRMLeUdUcffBWzzOoaDugZexjlGLf6uWHpAOMorSC2Suzelf7In0Urotjt/yajQiZomocUNsdtERMhAKrdcGhY5MP88xBGngni+rvWngOm47bgWe4c70asdVwTZuuOLrMCHXnU3t1d0S4S70RTCivvFEP8MJldR4lZib+x0G7dSni9rsWrx7D+QJmQS5MLTtWRhEoDQYvE0HhbTZHyPkKR/1hlQvWMX/NC05yZ/RGMBzZL06OhkUbtngpCjCOD95pR0xznCGGeCVCi4rhTNa33rRTimAPSHji3RNMFlLKYAkmc3PojPtxaLy+2Nt+ZeEUH/j4QTZv6fGkuclPuaJBzH+fmY5DNKRB3zoEBLm1UxvKioisWn8ZMsqM=
+  '50':
+    name: devxz
+    uuid: cf4d7a28-f5c0-4757-9a85-19a3d778d4c5
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: world
+        x: '-165.5783'
+        y: '-108837.4789'
+        z: '-3.1634'
+        yaw: '169.99432373046875'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: devxz
+        uuid: c5d1fe58-9050-377e-bf8e-1a09347a259d
+    traitnames: equipment,mounttrait,skinlayers,spawned,inventory,speech,owner,type,scripttrait,location,waypoints,text
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '47':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTAyOTI1MjQxNSwKICAicHJvZmlsZUlkIiA6ICI3OWMyODZmNDhiZjA0Zjc4YjVmMTZmOWY1M2JhYWY0YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzOTM0MTgzNDg1NjY3MzIxYzlhZDU4YzRhZDAzMzc3YjAyMGE4Yjc4MTBjODJlYTMwNDhiZWU4ZjBhMjU5YzQiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE1M2IxYTBkZmNiYWU5NTNjZGViNmYyYzJiZjZiZjc5OTQzMjM5YjEzNzI3ODBkYTQ0YmNiYjI5MjczMTMxZGEiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: g
+      cached-skin-uuid: 79c286f4-8bf0-4f78-b5f1-6f9f53baaf4a
+      player-skin-signature: fdRjhsBTuaftFWEtq0R4SNyy2kXUqyakhp1V1PlqbUbNpiQMkt+GAg+wr00EA+g9zat1Bmui/qI/wFRoSt9LQIMuTrbetsahXY/fLx7pwSGMhVQTMwLRxt7ZV/IaVEPuI8A7X+A+d7mVYHhucwZFB6+mKbAaeK+erTJxqC5NtrXCypC1Zh84/0xR1YJNQcu0+OtzyTI8wZamlLZ+cSNbhBDTqTW6ZN99WXC/N7JhllhFI5uYmGEnweXHq2TSHyV2adi5nqX9H1LqFS/ITKJpPnRYgUo4GMrho9exkAzU97zHNZg5k+9t/Jd7OYssIcJYsetEteQXYxLqHxaBx6AJ7o8293wC4XDluQItW9T7NisYvArvQS4iGvtsJjFlH9f4izLNvcO3z5VI1+vieGwxKSg4+A2Gny0rCdOmJcm6dR50q+yOYKheo8ATo/4SzosajKA22r6WtFADAxZuBAHXwSoUL4tlJgldlME9se3VszzJRopnFn3SRwVmUygB4xePIYEuRp8gLwHHgsEtRX6/Skw8RPOS37I03eRnRR3YiPHPVswBBkXpbAHVQaMMt50uG9SMwBW+cz1zfwM+8Soa3PC6lkpksoXJyDpnid75hDvVwhJexYjHMobzUOukixA7ZxANq1USm8WYKa+dFaTQH81ZrV/dW9KMscxJ5kgBoJY=
+    name: a
+    uuid: 0d5995d4-da4f-4fb2-a051-3f09bf45e343
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: world
+        x: '-158.5'
+        y: '132.0'
+        z: '-11.5'
+        yaw: '-25.4119873046875'
+        pitch: '0.0'
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      type: ENDER_CRYSTAL
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: equipment,mounttrait,spawned,inventory,speech,owner,type,location,scripttrait,waypoints,text
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '32':
+    name: silahkan apply
+    uuid: ca8db14c-2c79-4447-ae29-bc5c9b6ef7a4
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: world
+        x: '18.5'
+        y: '-1939273.3639'
+        z: '-281.5'
+        yaw: '-90.274169921875'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '19':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNzYxNiwKICAicHJvZmlsZUlkIiA6ICIyODFlZmMyMGIyMTk0OWU0OTk4NTMzM2ZjZWIyZDI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3ZlTmF0aGFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3MmZhY2RhYjVkNGQ2ZGJkNTFkZDFjNjA4NGNmNWM0N2ZlOTFhNzE3MTg4M2I2ZDA0NDA3YzQ5MDk5ZTlhOWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: lovenathan
+      cached-skin-uuid: 281efc20-b219-49e4-9985-333fceb2d271
+      player-skin-signature: tYcXOKLrQ0lqaQJYU6EkmyKbcyDy5yxuXlgZb8pCDC+HAUsoaUaUZV2zaR+4qgr3B2mi88EKuY3N+GWHcekNTgBmHuOdRc2EHYazQf10xnhrfOhQrnQJpbXsrxnMT7qKpODLpsGCaxDY3zTV+yXHHDWNvO6RIzyAEdYy9VQkt0onKp6lZWNvNNHGeY+mQjUZCJlD9nm4BCPvmQ3hg4Pxah4iXvt3HD7WJow3w+hWdKxmBeVzFDEfyxkssGERlIyqBlNgb9NvuAp2IzDqv6hLdlubDomX+jLw4sHSfX+bioljZItntM/WDixboMSZsZAwS8dsGLz76PRQ0Y8yZbZQiBpBeBGPeQBl4pQ6OxNYNWW7FjD3JZHYMRi2kzOLdgwJIEJ3svzTZBcoLHEHPwRkZsiHoCcS0qRyd/fOgRUJXNKVh25Y0PNtsLJ67EqiJrVlX0sYemuM7QvprqnLfnSynbRRIENlsQVHls803/aNa6iDWJSg19aVjd1WnJeT/RR4KrG2rsljSgfdR7UxTDcc3Y0+U5DOV4x9rP8onLLTcDWF+Y4k15qk8OTnFNExx3A5bIuv9Z6tpiEGdrgSWo+34gIAVf08/TEBQ/f6Cq7mJ8XxdeArxVH70haWfgs3oLZEoSUKmE2PJqusjcTbBSwR/Z/bz7D0iQ2g5UTnouxwTrM=
+    name: LoveNathan
+    uuid: 12e38a3b-7a42-4f4a-9fd3-54147785aae3
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: world
+        x: '26.5'
+        y: '125.0'
+        z: '-266.5'
+        yaw: '-178.19906616210938'
+        pitch: '0.0'
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      type: PLAYER
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '18':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNzYxNiwKICAicHJvZmlsZUlkIiA6ICIyODFlZmMyMGIyMTk0OWU0OTk4NTMzM2ZjZWIyZDI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3ZlTmF0aGFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3MmZhY2RhYjVkNGQ2ZGJkNTFkZDFjNjA4NGNmNWM0N2ZlOTFhNzE3MTg4M2I2ZDA0NDA3YzQ5MDk5ZTlhOWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: lovenathan
+      cached-skin-uuid: 281efc20-b219-49e4-9985-333fceb2d271
+      player-skin-name: lovenathan
+      player-skin-signature: tYcXOKLrQ0lqaQJYU6EkmyKbcyDy5yxuXlgZb8pCDC+HAUsoaUaUZV2zaR+4qgr3B2mi88EKuY3N+GWHcekNTgBmHuOdRc2EHYazQf10xnhrfOhQrnQJpbXsrxnMT7qKpODLpsGCaxDY3zTV+yXHHDWNvO6RIzyAEdYy9VQkt0onKp6lZWNvNNHGeY+mQjUZCJlD9nm4BCPvmQ3hg4Pxah4iXvt3HD7WJow3w+hWdKxmBeVzFDEfyxkssGERlIyqBlNgb9NvuAp2IzDqv6hLdlubDomX+jLw4sHSfX+bioljZItntM/WDixboMSZsZAwS8dsGLz76PRQ0Y8yZbZQiBpBeBGPeQBl4pQ6OxNYNWW7FjD3JZHYMRi2kzOLdgwJIEJ3svzTZBcoLHEHPwRkZsiHoCcS0qRyd/fOgRUJXNKVh25Y0PNtsLJ67EqiJrVlX0sYemuM7QvprqnLfnSynbRRIENlsQVHls803/aNa6iDWJSg19aVjd1WnJeT/RR4KrG2rsljSgfdR7UxTDcc3Y0+U5DOV4x9rP8onLLTcDWF+Y4k15qk8OTnFNExx3A5bIuv9Z6tpiEGdrgSWo+34gIAVf08/TEBQ/f6Cq7mJ8XxdeArxVH70haWfgs3oLZEoSUKmE2PJqusjcTbBSwR/Z/bz7D0iQ2g5UTnouxwTrM=
+    name: §3§lCosmetic
+    uuid: b3cd43e5-68c4-4ece-b010-c65fe7f2aeab
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: world
+        x: '28.5'
+        y: '126.0'
+        z: '-276.5'
+        yaw: '20.44963836669922'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      type: PLAYER
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '62':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxMjc0NiwKICAicHJvZmlsZUlkIiA6ICJhNzYxNmU1MmIxMTk0MmE4YTdiZDBlNjZkMjc5YjA4NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYWR6aW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRiNWY3ZWNjNDA1NzYzOTcxNzVkYTA3YjJkYzAzYTY5N2I2MDIzMzZmNDJiMGFmZWQ5MTkzYjliYzYzNjdlNSIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: dadzio
+      cached-skin-uuid: a7616e52-b119-42a8-a7bd-0e66d279b086
+      player-skin-signature: Hd50x9z2sxiIoWgJHhfbU/ya+cv9GutcO8zDyx+mlhf7AnQ88iBdbk4NVNaz9ASEJg9DVxH5tehTOFY64Bc4c2Zy8R2X8Qx1PL/b6Ydo8c8lV3VdD8IEfttKiVws6V+JNm0JF6Pn6YbQUiOab8kVMGItpBrf4hG6NGmXeM4K8cRFVv85imPuHLbBdL9trWZx38F473LwhAUJTi9OBChfiGasgCo2MWg513yt2HyH0XpVOYJoS7Xp+0MuJolkACZKgAqC6q2onTHX/mhhWMnH5DuDDrceH+1iuL7zgKHbd2iIwxoJoQeqowb87zFas7GmUqkwcz9qDENJxZWaM5T3RdjQMo7b3Df5IRpk478VZxh2HobRNGRsXproDo2kmtqxNoHjsZIhWDHrKcSlPy7ORE0gmix0GpOo97Z/TAZhJsokNMSGviy7BzLZtIacIuZPpR9WDdejhsoiJwZlXle3VH05bxFrDwfQAIjnAuNfROMJGKHtT0ZpoMdFYf3oIkDtj0tn+Rwnmfa+2MrgltWfw6eIljKDU6PI24YCdO7PUgB9yHCG5LsMXCYh603aPvaDzu/piSlG/uWlkAUdyYfxGy0+VcsM0NJsOkHd7lZnKnL8+9cX3i3IG39yCyxZ0oGxJUqMJZ7j3uCYAzdujPWmnImNKAnNr6FQbY5iM7/E8jk=
+    name: dadzio
+    uuid: cd844a92-9bf9-4c6d-b496-5d92fc0b3eb9
+    traits:
+      spawned: true
+      location:
+        world: world
+        x: '22.5'
+        y: '125.0'
+        z: '-266.5'
+        yaw: '-152.55551147460938'
+        pitch: '0.0'
+      type: PLAYER
+      gravity:
+        enabled: false
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '61':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxMjQxMCwKICAicHJvZmlsZUlkIiA6ICIyYTJkZjdlNmI1N2U0ZjMxOGIyYjIxNTRjZTJiOTNlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbnRzSlJfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U1YjUwZjNmZWJiMmYzZGZlMmM5NWI1NGFhMDk2MTNkY2NmNmY3NjEwMDk0ZDgxNDRiMDQyN2Y3MTU0MmQ2ZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: antsjr_
+      cached-skin-uuid: 2a2df7e6-b57e-4f31-8b2b-2154ce2b93ef
+      player-skin-signature: Wt4whxeGMJonbeWcOwUwBIxP6E5gWuJoT5v9gK3qHc2Cdfi0wOESucADukjmaImyoVHgvkL8Lqxl41fwic5C0GJAcrwMH9GVY9dtdmXCQnclod4aJdx98oIZogDfRtRnheHBRSmrd+ZFPfl1TqwUtvEeCQmB1wp5/+6gd8/w9YhXqfJZR6uoRUPj3Mg0Drcto7gk+9ugNl8Mi1mc2b8c0FJyi9AnVA5jQYCiHrsDjhBWq83GH0XeTdBs2tHuig/wfAo9nVuRyO1adGJ9exJcxClqpXCxVvARv+Uv0C3ep4+vk4rmMLgHBhJyXTI3kGeObE6YV76Zu/U9nPKBSpaYkxtmSTqiQq4rZz8dikYiHQMvPf9TrIw4zuvSstR/FgyubqkLqIKjaZPgNsqpyCHGMWoYvehZkze0ezrr/OghUg8+AemGP9S+msxcpTHoYWo6dl3wJIAbsw2HUpLV70hm6v7SlSBz4WcyCb644VF100+Q3cJGRCR1VboI0PjmfVtB+3mUnhjECyPfJ3K8Botfk7LRz4UWUiSNCct8lipwsMQEOgNm0k7gT/2kIkPFqfUTWqoaygOLRglrgwBfsPpSUe09WMyEC79dfIqEUAcFNJwJ6Ahse26mpXyGthJ6ucSXRKF1EQxb1ScPkrpwFjX4/gVJk/su41iJhOGVFIyvZqE=
+    name: AntsJr_
+    uuid: 93892502-e8f4-4671-bdb0-5b9f75dcfd90
+    traits:
+      spawned: true
+      location:
+        world: world
+        x: '30.5'
+        y: '125.0'
+        z: '-266.5'
+        yaw: '170.2322235107422'
+        pitch: '0.0'
+      type: PLAYER
+      gravity:
+        enabled: false
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '60':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNjgzMiwKICAicHJvZmlsZUlkIiA6ICJjODBiYmE0MDRlMTY0ODZmYjdkNmI0M2FjZDU1NzIyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWRhc3UiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM4YWFiZTQ1ZjYzYTMyMDc4ZjRjNjA5NzdhZDNjZmZkMTk1ODE2NWFmMWU3ODNhNzI2NDZlM2NlMTIyNTM0YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+      cached-skin-uuid-name: tadasu
+      cached-skin-uuid: c80bba40-4e16-486f-b7d6-b43acd55722a
+      player-skin-signature: vQrx+HlRxksyBBNb3xVBbV9EW2TjTwOE1Y9tYwqMsTPFk5uZt7Vpk2zxrvcFICRDCDepGJ04wHHLflX3IqIIHqJwlYp18Wlc4s5RYGailddXxwMRIL8VYmwu74xlXE4q5cJsrQRet46cPrweMEa0NY1TQ3l4WU8qbOqzoHbsNSgtJ+iMLmdAhhdy1WoazGz4BCfSzYbmpGpiBy8ppcc/SPUmNDka5v0pzEizMv+GtIkgUXy7CHmVIo2PppW7t3cUI4dlOBYmF5ZMa6WlFfFyQ2fE4TQ+VHMTE6HQGkhgXUlFg7v3rirOoGSaiF4jwlEw+pm1JF3lHDuKXrz+7EfHz9PvZcW4ui6NRYYlyJqMZpmsJYwOYRPO8snFNRXrRjQATrx3tEBKdsPtJXl/7m7X4eq76hJSbWP/v8O57dzWUwu2Bg6M7qCdDornfmQ2QlBItsdYXz4bJX0IfK5Qn0N/RW+ClGSxIShRZxi3UsC/AmADJG5o0b6rSNikUUxRFnIIcMPe+eKMIwQhhR29TXMoRihrQNQ8vrqyHZGSz/D9Eea5UaWQiq71INtDidNUUsGJkb6IVaUg3bzkJQo2vk1YaSUeGnlfTj2GlXuOnGpo/DqSr90HoLLtNjTpszdl8apAEO9UBfAKd0QRPwgh/PSZxDFE7a4BSRAo/dhx0tu3pag=
+    name: Tadasu
+    uuid: a2f0ebf3-f3b0-491e-8291-5fa9b79cc1b6
+    traits:
+      spawned: true
+      location:
+        world: world
+        x: '24.5'
+        y: '125.0'
+        z: '-266.5'
+        yaw: '178.53709411621094'
+        pitch: '0.0'
+      type: PLAYER
+      gravity:
+        enabled: false
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '59':
+    metadata:
+      player-skin-name: devxz
+    name: devxz
+    uuid: 366e5436-93c0-4fcb-8ac4-f0e2a5d833be
+    traits:
+      spawned: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      location:
+        world: world
+        x: '28.5'
+        y: '125.0'
+        z: '-266.5'
+        yaw: '179.9593048095703'
+        pitch: '0.0'
+      type: PLAYER
+      gravity:
+        enabled: false
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      speech: chat
+      waypoints:
+        provider: linear
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '63':
+    metadata:
+      glowing-color: MAGIC
+      silent-sounds: false
+    name: a
+    uuid: 7c0f3e79-9408-429e-8437-0f99677a7ea0
+    traits:
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      spawned: true
+      speech: chat
+      waypoints:
+        provider: linear
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      location:
+        world: world
+        x: '13.0121'
+        y: '138.1262'
+        z: '-49.3453'
+        yaw: '92.9229736328125'
+        pitch: '38.47427749633789'
+      type: ENDER_DRAGON
+      gravity:
+        enabled: false
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: equipment,mounttrait,inventory,spawned,speech,owner,type,location,scripttrait,waypoints,text
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '64':
+    name: h
+    uuid: ad98c109-1c04-4901-8854-308dbb99a1a4
+    traits:
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      spawned: true
+      waypoints:
+        provider: linear
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      location:
+        world: world
+        x: '26.5'
+        y: '127.0'
+        z: '-280.5'
+        yaw: '0.07912638038396835'
+        pitch: '0.0'
+      speech: chat
+      type: ENDER_CRYSTAL
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: equipment,mounttrait,skinlayers,spawned,inventory,speech,owner,type,location,scripttrait,waypoints,text
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '67':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTYxMTE1NTAxNzYxNiwKICAicHJvZmlsZUlkIiA6ICIyODFlZmMyMGIyMTk0OWU0OTk4NTMzM2ZjZWIyZDI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3ZlTmF0aGFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3MmZhY2RhYjVkNGQ2ZGJkNTFkZDFjNjA4NGNmNWM0N2ZlOTFhNzE3MTg4M2I2ZDA0NDA3YzQ5MDk5ZTlhOWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: lovenathan
+      cached-skin-uuid: 281efc20-b219-49e4-9985-333fceb2d271
+      player-skin-name: lovenathan
+      player-skin-signature: tYcXOKLrQ0lqaQJYU6EkmyKbcyDy5yxuXlgZb8pCDC+HAUsoaUaUZV2zaR+4qgr3B2mi88EKuY3N+GWHcekNTgBmHuOdRc2EHYazQf10xnhrfOhQrnQJpbXsrxnMT7qKpODLpsGCaxDY3zTV+yXHHDWNvO6RIzyAEdYy9VQkt0onKp6lZWNvNNHGeY+mQjUZCJlD9nm4BCPvmQ3hg4Pxah4iXvt3HD7WJow3w+hWdKxmBeVzFDEfyxkssGERlIyqBlNgb9NvuAp2IzDqv6hLdlubDomX+jLw4sHSfX+bioljZItntM/WDixboMSZsZAwS8dsGLz76PRQ0Y8yZbZQiBpBeBGPeQBl4pQ6OxNYNWW7FjD3JZHYMRi2kzOLdgwJIEJ3svzTZBcoLHEHPwRkZsiHoCcS0qRyd/fOgRUJXNKVh25Y0PNtsLJ67EqiJrVlX0sYemuM7QvprqnLfnSynbRRIENlsQVHls803/aNa6iDWJSg19aVjd1WnJeT/RR4KrG2rsljSgfdR7UxTDcc3Y0+U5DOV4x9rP8onLLTcDWF+Y4k15qk8OTnFNExx3A5bIuv9Z6tpiEGdrgSWo+34gIAVf08/TEBQ/f6Cq7mJ8XxdeArxVH70haWfgs3oLZEoSUKmE2PJqusjcTbBSwR/Z/bz7D0iQ2g5UTnouxwTrM=
+    name: §8.
+    uuid: e99f1833-ed79-4a15-a9c6-09c9d4038d81
+    traits:
+      type: PLAYER
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      location:
+        world: world
+        x: '6.5'
+        y: '126.0'
+        z: '-52.5'
+        yaw: '-25.726333618164062'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      spawned: true
+      speech: chat
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      waypoints:
+        provider: linear
+      owner:
+        owner: LoveNathan
+        uuid: e287fe50-a464-308b-81b9-89a73b8380a9
+    traitnames: skinlayers,inventory,speech,type,scripttrait,text,lookclose,equipment,mounttrait,spawned,gravity,owner,location,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

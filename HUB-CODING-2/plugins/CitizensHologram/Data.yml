@@ -1,0 +1,61 @@
+Data:
+  c8bfbf31-5bfb-48a3-882b-4b6825cd97f0:
+    holotxt: '&3&lSurvival'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 40.5
+    z: -65.5
+  fb8b6876-4778-45c5-b808-275b42cd1f6b:
+    holotxt: '&c&lSurvival&8-&6&lEdition'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 40.5
+    z: -65.5
+  80539fcf-91f4-4759-9312-5207cb5b1f42:
+    holotxt: '&3&lAuthor Hub-1'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 31.5
+    z: -43.5
+  12e38a3b-7a42-4f4a-9fd3-54147785aae3:
+    holotxt: '&eDeveloper'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 26.5
+    z: -266.5
+  ae2ac8fe-fecc-4973-a006-b86fe3616dc7:
+    holotxt: '&5Moderator'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 31.5
+    z: -269.5
+  327d3839-c603-4157-aa92-0496ae943703:
+    holotxt: '&5Moderator.'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 21.5
+    z: -269.5
+  840ad085-e9cd-4df1-a042-dfb99d62eac9:
+    holotxt: '&aBuilder'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 28.5
+    z: -266.5
+  3618d505-d3f5-4499-8db8-dc66468192b1:
+    holotxt: '&9Suport'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 30.5
+    z: -266.5
+  366e5436-93c0-4fcb-8ac4-f0e2a5d833be:
+    holotxt: '&eDeveloper'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 28.5
+    z: -266.5
+  a2f0ebf3-f3b0-491e-8291-5fa9b79cc1b6:
+    holotxt: '&3Suport'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 24.5
+    z: -266.5
+  93892502-e8f4-4671-bdb0-5b9f75dcfd90:
+    holotxt: '&3Suport'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 30.5
+    z: -266.5
+  cd844a92-9bf9-4c6d-b496-5d92fc0b3eb9:
+    holotxt: '&5Moderator'
+    world: d3b73d6a-5faf-4bee-b662-4c349315b8fb
+    x: 22.5
+    z: -266.5
