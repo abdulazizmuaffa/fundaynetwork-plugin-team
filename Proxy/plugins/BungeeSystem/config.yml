@@ -329,7 +329,7 @@ Messages:
     Set: '&7You have set the slots to &e%amount% &7slots!'
        
 AutoMessage:
-  Prefix: '&7[&cNews&7] '
+  Prefix: '&8[&6&lFN&8] &7'
   Time: 10 #IN MINUTES
   Messages:
     Count: 2 #WHEN YOU ADD MESSAGES THEN PLEASE SET THE COUNT +1 AND WHEN YOU REMOVE THEN -1
