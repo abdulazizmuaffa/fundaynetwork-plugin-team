@@ -1,0 +1,78 @@
+#
+# Thank you for downloading this plugin.
+# I would appreciate a review on SpigotMC.org!
+#
+# Here you can activate or deactivate the functions and commands
+# true = activate | false = deactivate
+#
+#
+
+Commands:
+  BroadcastCommand:
+    Enabled: true
+  HubCommand:
+    Enabled: true
+  JoinMeCommand:
+    Enabled: true
+  JumpCommand:
+    Enabled: true
+  ListCommand:
+    Enabled: true
+  MaintenanceCommand:
+    Enabled: true
+  PingCommand:
+    Enabled: true
+  ReportCommand:
+    Enabled: true
+  ReportsCommand:
+    Enabled: true
+  TeamchatCommand:
+    Enabled: true
+  ServerInfoCommand:
+    Enabled: true
+  DSGVOCommand:
+    Enabled: true
+  ToggleNotifyCommand:
+    Enabled: true
+  MSGCommand:
+    Enabled: true
+  PartyCommand:
+    Enabled: true
+  KickCommand:
+    Enabled: true
+  BanCommand:
+    Enabled: true
+  MuteCommand:
+    Enabled: true
+  CheckCommand:
+    Enabled: true
+  StaffCommand:
+    Enabled: true
+  OnlineTimeCommand:
+    Enabled: true
+  SurveyCommand:
+    Enabled: true
+  SetMaxSlotsCommand:
+    Enabled: true
+    
+Functions:
+  StaffNotify:
+    Enabled: true
+  MOTDManager:
+    Enabled: true
+  Tablist:
+    Enabled: true
+  PremiumJoin:
+    Enabled: true
+  NoProxyKick:
+    Enabled: true
+  AutoMessage:
+    Enabled: true
+  DSGVO:
+    Enabled: true
+  Filter:
+    Enabled: true
+  TabPlayers:
+    Enabled: true
+  CustomCommands:
+    Enabled: true
