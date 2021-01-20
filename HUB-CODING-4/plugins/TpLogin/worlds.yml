@@ -1,0 +1,113 @@
+worlds:
+  world:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 26.457642640738822
+        Y: 124.5
+        Z: -271.02281853588715
+        Yaw: 180.08667
+        Pitch: -4.743754
+    MOTD:
+    - '&aWelcome back %player_name% this motd supports placeholders from placeholderapi!'
+    Join-Message:
+    - ''
+    - '&a%player_name% joined :)'
+    - ''
+    Quit-Message:
+    - ''
+    - '&a%player_name% quit :('
+    - ''
+    Global-Commands:
+    - lobby
+    - mainspawn
+    Join-Commands:
+    - 0:CONSOLE:say hello %player_name%
+    - 5:PLAYER:eat
+    Quit-Commands:
+    - 0:CONSOLE:say goodbye %player_name% :( you will not be missed.
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+  world_nether:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 0.0
+        Y: 0.0
+        Z: 0.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+  world_the_end:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 0.0
+        Y: 59.0
+        Z: 0.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD: []
+    Join-Message: []
+    Quit-Message: []
+    Global-Commands: []
+    Join-Commands: []
+    Quit-Commands: []
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+  spawn:
+    Different-Spawn-World:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default
+    Location:
+      default:
+        X: 8.0
+        Y: 68.0
+        Z: 9.0
+        Yaw: 0.0
+        Pitch: 0.0
+    MOTD:
+    - '&aWelcome back %player_name% this motd supports placeholders from placeholderapi!'
+    Join-Message:
+    - ''
+    - '&a%player_name% joined :)'
+    - ''
+    Quit-Message:
+    - ''
+    - '&a%player_name% quit :('
+    - ''
+    Global-Commands:
+    - lobby
+    - mainspawn
+    Join-Commands:
+    - 0:CONSOLE:say hello %player_name%
+    - 5:PLAYER:eat
+    Quit-Commands:
+    - 0:CONSOLE:say goodbye %player_name% :( you will not be missed.
+    Void-Teleport:
+      Enabled: false
+      World-Name: lobby
+      Location-Name: default

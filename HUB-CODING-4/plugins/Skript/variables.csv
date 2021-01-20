@@ -1,0 +1,10 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.5.3
+
+chat:lock, boolean, 00
+chat:spy.<player>, boolean, 00
+lastmessage.e287fe50-a464-308b-81b9-89a73b8380a9, string, 80044655434B
+sans, location, 8605776F726C6480FF0000000181046E616D65208005776F726C64017809403ADA2BB68C5F8F017909405F800000000000017A09C07142772A4AC65F0570697463680841C5244B0379617708C18D1187
+

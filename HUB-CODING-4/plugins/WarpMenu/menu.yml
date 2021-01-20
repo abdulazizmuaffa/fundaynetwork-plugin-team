@@ -1,0 +1,15 @@
+inventoryName: '&3&lHub Menu'
+inventoryRows: 3
+warps:
+  HUB-1:
+    displayItem: ENDER_CHEST
+    displaySlot: 12
+    displayName: '&8HUB-1'
+  HUB-2:
+    displayItem: ENDER_CHEST
+    displaySlot: 13
+    displayName: '&8HUB-2'
+  spawn:
+    displayItem: CHEST
+    displaySlot: 14
+    displayName: '&6HUB-SELECTOR'
