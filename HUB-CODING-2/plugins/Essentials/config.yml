@@ -101,7 +101,7 @@ teleport-invulnerability: 4
 teleport-to-center: true
 
 # The delay, in seconds, required between /heal or /feed attempts.
-heal-cooldown: 60
+heal-cooldown: 90
 
 # Do you want to remove potion effects when healing a player?
 remove-effects-on-heal: true
@@ -491,8 +491,8 @@ allow-silent-join-quit: false
 # You can set custom join and quit messages here. Set this to "none" to use the default Minecraft message,
 # or set this to "" to hide the message entirely.
 # You may use color codes, {USERNAME} for the player's name, and {PLAYER} for the player's displayname.
-custom-join-message: "none"
-custom-quit-message: "none"
+custom-join-message: "&7[&a+&7] &r{USERNAME}"
+custom-quit-message: "&7[&c-&8] &r{USERNAME}"
 
 # You can disable join and quit messages when the player count reaches a certain limit.
 # When the player count is below this number, join/quit messages will always be shown.
